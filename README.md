@@ -14,4 +14,4 @@ This is a Tableau dashboard I made using the US Superstore dataset. It helps bre
 - Making dashboards interactive with filters and drop-downs
 
 ## File
-- `Moc_Project.twbx`
+- `sales-analysis-dashboard-tableau_Project.twbx`
