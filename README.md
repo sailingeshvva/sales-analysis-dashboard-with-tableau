@@ -12,6 +12,8 @@ This is a Tableau dashboard I made using the US Superstore dataset. It helps bre
 - How to use Tableau to turn raw data into insights
 - Creating visuals that highlight loss-making areas
 - Making dashboards interactive with filters and drop-downs
-
+  
+## Website Link
+  https://raw.githack.com/sailingeshvva/sales-analysis-dashboard-with-tableau/df021e9dd2bdb439fc6136ddadfd56b4ea4fdfa4/tabu.html
 ## File
 - `sales-analysis-dashboard-tableau_Project.twbx`
